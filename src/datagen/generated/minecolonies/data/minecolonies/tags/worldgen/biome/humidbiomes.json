@@ -10,6 +10,7 @@
     "minecraft:jungle",
     "minecraft:lush_caves",
     "minecraft:mangrove_swamp",
-    "minecraft:sparse_jungle"
+    "minecraft:sparse_jungle",
+    "allthemodium:mining"
   ]
 }
